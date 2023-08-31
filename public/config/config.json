@@ -1,0 +1,21 @@
+{
+  "CONTRACT_ADDRESS": "0xa9bdEA472D90000608419e1981571948550A0239",
+  "SCAN_LINK": "https://etherscan.io/address/0xa9bdEA472D90000608419e1981571948550A0239",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "MATIC",
+    "ID": 137
+  },
+  "NFT_NAME": "Black Cats",
+  "SYMBOL": "BC",
+  "MAX_SUPPLY": 444,
+  "DISPLAY_COST": 10,
+  "GAS_LIMIT": 210000,
+  "MAX_PER_TX": 10,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/",
+  "Telegram": "https://",
+  "Discord": "https://",
+  "Twitter": "https://twitter.com/AlgorithmXlabs",
+  "SHOW_BACKGROUND": false
+}
